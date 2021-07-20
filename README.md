@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Njacobs592
-- 👀 I’m interested in Programming.
+- 👀 I’m interested in Programming and Linux System Administration.
 - 🌱 I’m currently learning Python.
 
 <!---
